@@ -1,5 +1,5 @@
 # RA2211003050093
-CN LAB EXAMINATION REPORT
+# CN LAB EXAMINATION REPORT
 Aim:
 To create and configure a suitable network topology for both LAN and WAN using Cisco Packet Tracer, involving 10-15 computers, switches, and routers. The goal is to simulate the transmission of a message from a computer in one network to a computer in another network, ensuring proper connectivity and communication across different network segments.
 Procedure:
